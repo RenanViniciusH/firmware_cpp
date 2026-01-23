@@ -1,0 +1,3 @@
+/home/scenario/Projetos/central/build/esp32-Release/CMakeFiles/central.dir
+/home/scenario/Projetos/central/build/esp32-Release/CMakeFiles/edit_cache.dir
+/home/scenario/Projetos/central/build/esp32-Release/CMakeFiles/rebuild_cache.dir
